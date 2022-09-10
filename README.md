@@ -1,7 +1,11 @@
 # React-native-app---sell-products-online
 
-Stil in developement.
-Here are some screenShots
+React Native App to sell products online.
+
+Still in developement.
+Here are some screenShots 
+
+react native peinciples, Using Formik, Using Yup, no ui librariries, All components are Reusable
 
 ![3](https://user-images.githubusercontent.com/33985065/189478291-9db63696-d23e-431a-88d6-51aeb14e8d09.jpeg)
 ![4](https://user-images.githubusercontent.com/33985065/189478293-b033fc41-1c27-4488-b5f0-7aca1a0349e1.jpeg)
